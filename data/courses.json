@@ -1,0 +1,22 @@
+{
+  "courses": [
+    {
+      "id":"school-8-12",
+      "title":"School English (Grades 8–12)",
+      "blurb":"Grammar, writing, reading comprehension and literature support for ICSE/CBSE/IB.",
+      "duration":"regular",
+      "frequency":"1 session/week, 45+ mins",
+      "fees":"₹1,500–₹2,000 / month",
+      "cta":"Book Demo"
+    },
+    {
+      "id":"communication",
+      "title":"Communicative English (Students & Professionals)",
+      "blurb":"Fluency, business writing, presentations and interview readiness.",
+      "duration":"3 months",
+      "frequency":"2 sessions/week, 45+ mins",
+      "fees":"₹2,500–₹3,500 / month",
+      "cta":"Join Orientation"
+    }
+  ]
+}
