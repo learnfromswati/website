@@ -29,8 +29,8 @@ Each class combines academic rigor with individual attention — ensuring measur
 
 | Course | Description | Duration | Fee |
 |--------|--------------|-----------|------|
-| **IB, ICSE & CBSE English (Grades 8–12)** | Weekly 45-min live sessions focusing on writing, grammar, and literature | 4 weeks | ₹1500/month |
-| **Communication English (College Students / Professionals)** | Spoken English, articulation, and workplace communication | Flexible | ₹2500/month |
+| **IB, ICSE & CBSE English (Grades 8–12)** | Weekly 45-min live sessions focusing on writing, grammar, and literature | regular | ₹1500/month |
+| **Communication English (College Students / Professionals)** | Spoken English, articulation, and workplace communication | 3 months | ₹2500/month |
 | **Essay & Creative Writing Workshop** | Thematic short-term course to enhance structure, tone, and vocabulary | 2 weeks | ₹1200 |
 
 ---
