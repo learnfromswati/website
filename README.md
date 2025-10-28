@@ -5,7 +5,7 @@ Taught by a UGC-NET Qualified Assistant Professor & Gold Medalist with 5+ years 
 
 🌐 **Website:** [https://englishbyswati.com](https://englishbyswati.com)  
 📧 **Email:** [info@englishbyswati.com](mailto:info@englishbyswati.com)  
-📍 **Location:** Belagavi, Karnataka (Online Pan-India)  
+📍 **Location:** Chennai, Tamil Nadu (Online Pan-India)  
 📱 **WhatsApp:** +91 8100490752  
 
 ---
