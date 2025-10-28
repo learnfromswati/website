@@ -5,4 +5,4 @@ Files:
 - contact.html
 - data/ — optional JSON content (courses & testimonials)
 - assets/ — logo, favicon, images
-- policies/ - HTML pages (terms, refund, shipping, privacy, pricing)
+- policies/ — HTML pages (terms, refund, shipping, privacy, pricing)
