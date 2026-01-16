@@ -5,7 +5,7 @@ Taught by a UGC-NET Qualified Assistant Professor & Gold Medalist with 5+ years 
 
 🌐 **Website:** [https://englishbyswati.com](https://englishbyswati.com)  
 📧 **Email:** [info@englishbyswati.com](mailto:info@englishbyswati.com)  
-📍 **Location:** Chennai, Tamil Nadu (Online Pan-India)  
+📍 **Location:** Belagavi, Karnataka (Online Pan-India)  
 📱 **WhatsApp:** +91 8100490752  
 
 ---
@@ -29,9 +29,9 @@ Each class combines academic rigor with individual attention — ensuring measur
 
 | Course | Description | Duration | Fee |
 |--------|--------------|-----------|------|
-| **IB, ICSE & CBSE English (Grades 8–12)** | Weekly 45-min live sessions focusing on writing, grammar, and literature | regular | ₹1500/month |
-| **Communication English (College Students / Professionals)** | Spoken English, articulation, and workplace communication | 3 months | ₹2500/month |
-| **Essay & Creative Writing Workshop** | Thematic short-term course to enhance structure, tone, and vocabulary | 2 weeks | ₹1200 |
+| **IB, ICSE & CBSE English (Grades 8–12)** | Weekly 1 hr live sessions focusing on writing, grammar, and literature | regular | ₹1000/month |
+| **Communication English (College Students / Professionals)** | Spoken English, articulation, and workplace communication | regular | ₹1500/month |
+| **Essay & Creative Writing Workshop** | Thematic short-term course to enhance structure, tone, and vocabulary | 4 weeks | ₹800 |
 
 ---
 
